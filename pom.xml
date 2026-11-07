@@ -1,0 +1,7 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.elnemer.islamic1000</groupId>
+  <artifactId>fiqh-java-safar-qasr-distance</artifactId>
+  <version>1.0.0</version>
+  <name>Musafir Prayer Qasr & Jam' Distance Threshold Evaluator</name>
+</project>
